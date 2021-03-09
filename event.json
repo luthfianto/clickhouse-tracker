@@ -1,0 +1,22 @@
+{
+  "$ip": "114.69.69.69",
+  "$os": "Android",
+  "$lib": "web",
+  "$host": "dashboard.mantap.id",
+  "$time": 1612242493.864,
+  "token": "token_mantap",
+  "$device": "Android",
+  "$browser": "Chrome",
+  "$pathname": "/masuk",
+  "$referrer": "https://www.mantap.id/",
+  "$device_id": "1775b4c6d27106-016e1e87e9d9fd-3b0d3c17-3f480-1775b4c6d289e",
+  "$current_url": "https://dashboard.mantap.id/masuk",
+  "$lib_version": "1.8.3",
+  "$screen_width": 360,
+  "$screen_height": 720,
+  "$search_engine": "google",
+  "$browser_version": 87,
+  "$initial_referrer": "https://www.google.com/",
+  "$referring_domain": "www.mantap.id",
+  "$initial_referring_domain": "www.google.com"
+}
